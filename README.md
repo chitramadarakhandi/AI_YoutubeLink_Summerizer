@@ -7,16 +7,16 @@ The app extracts video metadata (title & description) and generates concise summ
 ## 🖼️ Project Preview
 
 ### 🔐 Login Page
-![Login Page](screenshots/login.png)
+![Login Page](login.png)
 
 ### 📝 Register Page
-![Register Page](screenshots/register.png)
+![Register Page](register.png)
 
 ### 🤖 Chatbot-Style Summarizer
-![Summarizer UI](screenshots/summarizer.png)
+![Summarizer UI](summarizer.png)
 
 ### 🛠️ Tech Stack Section
-![Tech Stack](screenshots/techstack.png)
+![Tech Stack](techstack.png)
 
 ---
 
